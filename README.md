@@ -1,4 +1,4 @@
-# 电商 Miniclaw
+# 面向多店铺电商客服的 Miniclaw
 
 <p align="center">
   <img src="web/public/icons/logo-1024.png" alt="电商 Miniclaw logo" width="96" />
